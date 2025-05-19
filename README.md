@@ -49,7 +49,7 @@ eduquiz-ai/
 └── README.md            # This file
 ```
 Author
-Your        : Y.G.G.D.RANASINGHE
+Name        : Y.G.G.D.RANASINGHE
 Student ID  : D/ADC/23/0025
 University  : General Sir John Kotelawala Defence University
 Intake      :  Intake 40 | Data Science Applications and AI (LB3114)
